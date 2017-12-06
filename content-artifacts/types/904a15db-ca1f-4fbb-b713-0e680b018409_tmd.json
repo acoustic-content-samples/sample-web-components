@@ -1,0 +1,49 @@
+{
+  "id": "904a15db-ca1f-4fbb-b713-0e680b018409",
+  "rev": "28-d630d648eb2ff08ded03dd1ce05b5f5d",
+  "name": "Web component",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "description": "A content type that renders an imported web component on the page.",
+  "creatorId": "946f8041-f4ad-4714-86cb-d749c73aa21a",
+  "created": "2017-11-03T13:29:31.094Z",
+  "lastModifierId": "946f8041-f4ad-4714-86cb-d749c73aa21a",
+  "lastModified": "2017-11-08T16:16:31.222Z",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "link",
+      "label": "Import link",
+      "key": "importLink",
+      "required": true,
+      "helpText": "The import link is the path to the web component HTML file. This can be an internal WCH link, or an external link."
+    },
+    {
+      "elementType": "text",
+      "label": "Tag name",
+      "key": "tagName",
+      "required": true,
+      "minLength": 1,
+      "helpText": "The tag name is the HTML tag for the web component to be rendered. This can be found in the web component file."
+    },
+    {
+      "elementType": "text",
+      "allowMultipleValues": true,
+      "minimumValues": 0,
+      "fieldLabel": "Attributes",
+      "required": false,
+      "helpText": "Add configuration attributes here. Format: name=\"value\"",
+      "label": "Attributes list",
+      "key": "attributesList"
+    },
+    {
+      "elementType": "text",
+      "label": "Inner text",
+      "key": "innerText",
+      "helpText": "This is the text that goes in between  the web component tags"
+    }
+  ]
+}

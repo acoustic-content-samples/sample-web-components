@@ -1,0 +1,12 @@
+{
+  "id": "web-component-layout",
+  "rev": "7-648a974da05b81174f87920b210c47c7",
+  "name": "webComponentLayout",
+  "classification": "layout",
+  "prerender": false,
+  "thumbnail": {
+    "path": "/layouts/thumbnails/web-component-layout.jpg"
+  },
+  "template": "web-component-layout",
+  "templateType": "angular"
+}
