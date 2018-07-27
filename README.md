@@ -19,7 +19,7 @@ This repository contains a weather sample web component to showcase how to imple
 ## Install and deploy the sample
 
 ### Configure your Wchtools 
-* Get your WCH tenant API URL. Click on the YOUR USERNAME drop down located on the top bar -> Hub information -> API URL. Copy the URL.
+* Get your WCH tenant API URL. Open the Hub information dialog from the "About" flyout menu in the left navigation pane of the Watson Content Hub user interface. Copy the API URL.
 * From a command line, run `wchtools init` to setup the [WCH tools CLI](https://github.com/ibm-wch/wchtools-cli#getting-started). Enter your username and API URL to configure wchtools. If you are using a Windows operating system, you will need to use Git Shell (or a similar Git bash shell) for the command line for these instructions.
 
 ### Clone and install the sample content-artifacts and site-application-files
