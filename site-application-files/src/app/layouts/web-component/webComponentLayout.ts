@@ -4,7 +4,7 @@ LICENSE: Apache License, Version 2.0
 */
 import {
     LayoutComponent
-} from 'ibm-wch-sdk-ng';
+} from '@ibm-wch-sdk/ng';
 import { AfterViewInit, Component, OnDestroy } from '@angular/core';
 import { TypeWebComponent } from './../../components/web-component/typeWebComponent';
 
