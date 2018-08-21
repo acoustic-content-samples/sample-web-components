@@ -39,7 +39,7 @@ npm run install-layouts-from-git https://github.com/ibm-wch/sample-web-component
 * Navigate in WCH to Content -> All content and assets. Click on the Compose drop down and choose the Web component type to get started.
 * Click in the Import link field and in the Link settings dialog, enter this string:
 ```
-/forecast-webcomponent/forecast/forecast.html
+forecast-webcomponent/forecast/forecast.html
 ```
 * In the Link text field, enter in
 ```
