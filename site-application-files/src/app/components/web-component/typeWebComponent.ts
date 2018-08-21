@@ -4,7 +4,7 @@ LICENSE: Apache License, Version 2.0
 */
 import {
     RenderingContext
-} from 'ibm-wch-sdk-ng';
+} from '@ibm-wch-sdk/ng';
 import { Component } from '@angular/core';
 import { AbstractWebComponent } from './abstractWebComponent';
 
