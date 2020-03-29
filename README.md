@@ -1,6 +1,6 @@
 # sample-web-components
 
-This repository contains a weather sample web component to showcase how to implement custom components within Watson Content Hub Sites feature. **Note:** this sample works correctly for Chrome as-is, [extra steps](#additional-browser-support) documented below are necessary for other browsers to render the web component sample.
+This repository contains a weather sample web component to showcase how to implement custom components within Acoustic Content (formerly Watson Content Hub). **Note:** this sample works correctly for Chrome as-is, [extra steps](#additional-browser-support) documented below are necessary for other browsers to render the web component sample.
 
 ![Screenshot](sample%20forecast%20web%20component.png)
 
